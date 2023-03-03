@@ -21,4 +21,10 @@ class Main {
       e.getStackTrace();
     }
   }
+  
+  public void add()
+  {
+  
+  System.out.println("I am a add function.");
+  }
 }
