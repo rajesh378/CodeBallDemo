@@ -15,6 +15,8 @@ class Main {
       }
       else {
         System.out.println("The file already exists.");
+        System.out.println("Please give different name.");
+        
       }
     }
     catch(Exception e) {
