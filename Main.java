@@ -26,5 +26,6 @@ class Main {
   {
   
   System.out.println("I am a add function.");
+      System.out.println("I have updated a add function.);
   }
 }
